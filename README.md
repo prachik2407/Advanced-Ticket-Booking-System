@@ -1,2 +1,15 @@
-# Advanced-Ticket-Booking-System
-Mini DBMS project based on transaction management and seat booking system.
+# Advanced Ticket Booking System
+
+Mini Project using MySQL Transactions & Locking.
+
+## Features
+- Concurrent booking handling
+- Deadlock prevention
+- Optimistic locking
+- Rollback handling
+- Isolation level testing
+
+## Technologies
+- MySQL Workbench
+- SQL
+- GitHub
